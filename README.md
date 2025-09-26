@@ -16,7 +16,7 @@ Me apasiona asegurar la calidad de los productos digitales, validando desde APIs
 ---
 
 ## 📚 Educación
-🎓 QA Manual Tester – **TripleTen** (2025, finalizado)  
+🎓 QA Engineer – **TripleTen** (2025, finalizado)  
 🎓 Licenciatura en Arquitectura – **Universidad de Guadalajara** (2013–2018)    
 
 ---
