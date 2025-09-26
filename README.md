@@ -1,36 +1,62 @@
 # 👋 ¡Hola, soy Fernando César Valdés González!
 
-<img width="900" height="230" alt="Captura de pantalla 2025-09-25 193624" src="https://github.com/user-attachments/assets/c4c6de8f-06b6-440a-afd1-cc52bbb5edf5" />
+<img width="717" height="154" alt="Captura de pantalla 2025-09-26 172222" src="https://github.com/user-attachments/assets/86eda21f-4664-4507-b731-289808499d0c" />
 
 
-🎯 **QA Engineer** especializado en pruebas de software manuales y automatizadas.  
-Me apasiona asegurar la calidad de los productos digitales, validando desde APIs hasta consultas en SQL, y apoyando equipos de desarrollo con reportes claros y bien documentados.
+# 🎯 QA Engineer Jr. con formación en pruebas manuales y automatizadas.
+Me apasiona asegurar la calidad de los productos digitales, validando desde APIs hasta consultas en SQL, y apoyando equipos ágiles con evidencias claras y bien documentadas.
 
-## 🛠️ Tech Stack
-- **Pruebas de software**: Casos de prueba, ejecución manual, reporte de bugs, UAT/preproducción.  
-- **Herramientas**: JIRA, Postman, Android Studio.  
-- **Bases de datos**: SQL (consultas, JOINs, agregaciones, subqueries).  
-- **Automatización**: Python, Selenium WebDriver, Pytest (smoke/regresión).  
-- **Versionado**: Git/GitHub.  
+# 🛠️ Tech Stack
 
----
+Pruebas de software: Diseño/ejecución de casos, smoke & regresión, reporte de bugs, UAT/Preproducción.
 
-## 📚 Educación
-🎓 QA Engineer – **TripleTen** (2025, finalizado)  
-🎓 Licenciatura en Arquitectura – **Universidad de Guadalajara** (2013–2018)    
+Herramientas: JIRA, Postman, Android Studio.
 
----
+Bases de datos: SQL (JOINs, agregaciones, subqueries).
 
-## 🌎 Idiomas
-- Español: **Nativo**  
-- Inglés: **Intermedio (B1 – conversación laboral)**  
+Automatización: Python, Selenium WebDriver, Pytest.
 
----
+Versionado: Git/GitHub.
 
-## 🤝 Conecta conmigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/fandovaldes)   
-- ✉️ fandovaldes@gmail.com  
 
----
+# 🚀 Proyectos Destacados
+🔹 Urban Routes – Pruebas Automatizadas
 
-✨ *"La calidad no es un acto, es un hábito." – Aristóteles*
+Validación de plataforma de viajes: rutas, tarifas, métodos de pago y extras.
+
+Stack: Python, Selenium, Pytest, SQL
+
+Logros: Detección de errores críticos en flujo de pago → reducción del 25% en reprocesos.
+
+Link: https://github.com/FandoValdes/qa-project-Urban-Routes-es
+
+
+🔹 Urban Grocers – API Testing
+
+Validación de API REST para gestión de “kits” (creación y parámetros).
+
+Stack: Pytest, Postman, JSON
+
+Logros: Identificación de inconsistencias en validación de entradas (400 Bad Request).
+
+Link: https://github.com/FandoValdes/qa-project-Urban-Grocers-app-es
+
+# 📚 Educación
+
+🎓 QA Engineer – TripleTen (2025, finalizado)
+🎓 Licenciatura en Arquitectura – Universidad de Guadalajara (2013–2018)
+
+# 🌎 Idiomas
+
+Español: Nativo
+
+Inglés: Intermedio (B1 – conversación laboral)
+
+# 🤝 Conecta conmigo
+
+💼 LinkedIn
+
+✉️ fandovaldes@gmail.com
+
+
+✨ "La calidad no es un acto, es un hábito." – Aristóteles
